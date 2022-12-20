@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @marin-coding, a 21 year old software engineering student.
+- 👀 I am interested in computer science and specifically data science.
+- 🌱 I am currently learning software engineering and data science.
+- 💞️ I am looking to collaborate on any project I find interesting.
+- 📫 How to reach me? Contact me on LinkedIn: https://fr.linkedin.com/in/marin-chevolleau
