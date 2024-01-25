@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @marin-chevolleau, a 21 year old software engineering student.
+- 👋 Hi, I'm @marin-chevolleau, a 22 year old software engineering student.
 - 👀 I am interested in computer science and specifically data science.
 - 🌱 I am currently learning software engineering and data science.
 - 💞️ I am looking to collaborate on any project I find interesting.
